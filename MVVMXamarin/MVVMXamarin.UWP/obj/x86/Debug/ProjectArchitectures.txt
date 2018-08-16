@@ -1,0 +1,1 @@
+H:\Desarrollo de aplicaciones\C#\MVVMXamarin\MVVMXamarin\MVVMXamarin.UWP\MVVMXamarin.UWP.csproj;x86
